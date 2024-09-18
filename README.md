@@ -7,7 +7,7 @@
 ###
 
 <div align="left">
-  <a href="[www.linkedin.com/in/saurabh-kumar-99009b24a](https://www.linkedin.com/in/saurabh-kumar-99009b24a/)" target="_blank">
+  <a href="https://www.linkedin.com/in/saurabh-kumar-99009b24a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/saurabhkumar4040" target="_blank">

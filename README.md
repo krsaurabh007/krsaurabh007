@@ -64,48 +64,6 @@ Building scalable web applications with modern frontend, backend, and cloud tech
 
 ---
 
-# 🚀 Featured Projects
-
-## 🏢 TenantIQ — Multi-Tenant SaaS
-
-A production-style multi-tenant SaaS platform where every company gets an isolated PostgreSQL schema.
-
-### Features
-
-- Multi-Tenant PostgreSQL Schema Architecture
-- JWT Authentication
-- Refresh Tokens
-- Redis Blacklist
-- RBAC
-- Analytics Dashboard
-- Dockerized Deployment
-- Rate Limiting
-- Secure REST APIs
-
-### Tech Stack
-
-React • TypeScript • Node.js • Express • PostgreSQL • Redis • Docker
-
----
-
-## 📚 eBook Store
-
-A complete MERN application for managing and purchasing books.
-
-### Features
-
-- CRUD Operations
-- Authentication
-- REST APIs
-- Responsive UI
-- Search Functionality
-
-### Tech Stack
-
-React • Node.js • Express • MongoDB
-
----
-
 # 📈 GitHub Stats
 
 <p align="center">

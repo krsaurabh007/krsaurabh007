@@ -83,20 +83,6 @@ I enjoy solving engineering problems, improving application performance, and des
 - Build reusable components
 - Keep learning every day
 
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=krsaurabh007&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krsaurabh007&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 📫 Connect With Me
 
 - 📧 **Email:** saurabhkumar4040@gmail.com

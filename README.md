@@ -13,14 +13,6 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/krsaurabh007">
-<img src="https://img.shields.io/github/followers/krsaurabh007?style=for-the-badge"/>
-</a>
-
-</p>
-
----
-
 # 👨‍💻 About Me
 
 - 💼 Software Developer at **Appsndevices Technologies Pvt. Ltd.**

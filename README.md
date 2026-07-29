@@ -79,7 +79,7 @@ Currently working as a **Software Developer at Appsndevices Technologies Pvt. Lt
 - Analytics Dashboard
 - Secure Authentication & Rate Limiting
 
-> 🔗 Live Demo *(Coming Soon)*  
+> 🔗 Live Demo https://tenantiq-frontend.vercel.app/login  
 > 🔗 GitHub Repository *(Add your repository link)*
 
 ---

@@ -1,58 +1,162 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hi 👋, I'm Saurabh Kumar</h1>
 
-###
+<h3 align="center">
+Full Stack Developer | React.js • Node.js • TypeScript • PostgreSQL
+</h3>
 
-<p align="left">I am Saurabh Kumar</p>
+<p align="center">
+Building scalable web applications with modern frontend, backend, and cloud technologies.
+</p>
 
-###
+<p align="center">
+<a href="https://www.linkedin.com/in/saurabh-kumar-99009b24a">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/saurabh-kumar-99009b24a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/saurabhkumar4040" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-  </a>
-</div>
+<a href="mailto:saurabhkumar4040@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-###
+<a href="https://github.com/krsaurabh007">
+<img src="https://img.shields.io/github/followers/krsaurabh007?style=for-the-badge"/>
+</a>
 
-<h2 align="left">About me</h2>
+</p>
 
-###
+---
 
-<p align="left">✨I'm a Full Stack Developer -Passionate about crafting dynamic and intuitive web applications<br>📚 Currently learning - I’m constantly expanding my tech stack, diving deeper into cloud services, microservices architecture, and advanced database management.<br>🎯 Goals: To master end-to-end development and contribute to impactful projects that solve real-world problems<br>🎲 Fun fact: When I’m not writing code, I’m brainstorming ideas to enhance application performance or experimenting with new tech stacks to push the boundaries of what's possible!</p>
+# 👨‍💻 About Me
 
-###
+- 💼 Software Developer at **Appsndevices Technologies Pvt. Ltd.**
+- 🚀 2.5+ years of experience building production-ready web applications
+- ❤️ Passionate about building scalable SaaS products
+- 🌱 Currently learning **Microservices, Kubernetes, AWS and System Design**
+- ⚡ Strong interest in Backend Architecture & Performance Optimization
+- 📍 Bengaluru, India
 
-<h2 align="left">I code with</h2>
+---
 
-###
+# 🛠 Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
+### Frontend
 
-###
+<p>
+<img src="https://skillicons.dev/icons?i=react,ts,js,redux,tailwind,materialui,html,css"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis"/>
+</p>
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🏢 TenantIQ — Multi-Tenant SaaS
+
+A production-style multi-tenant SaaS platform where every company gets an isolated PostgreSQL schema.
+
+### Features
+
+- Multi-Tenant PostgreSQL Schema Architecture
+- JWT Authentication
+- Refresh Tokens
+- Redis Blacklist
+- RBAC
+- Analytics Dashboard
+- Dockerized Deployment
+- Rate Limiting
+- Secure REST APIs
+
+### Tech Stack
+
+React • TypeScript • Node.js • Express • PostgreSQL • Redis • Docker
+
+---
+
+## 📚 eBook Store
+
+A complete MERN application for managing and purchasing books.
+
+### Features
+
+- CRUD Operations
+- Authentication
+- REST APIs
+- Responsive UI
+- Search Functionality
+
+### Tech Stack
+
+React • Node.js • Express • MongoDB
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=krsaurabh007&show_icons=true&theme=github_dark"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krsaurabh007&theme=github-dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krsaurabh007&layout=compact&theme=github_dark"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Microservices Architecture
+- Docker Best Practices
+- Kubernetes
+- AWS
+- PostgreSQL Performance Tuning
+- System Design
+
+---
+
+# 💡 Engineering Principles
+
+- Write clean and maintainable code
+- Performance matters
+- Build reusable components
+- Security first
+- Continuous learning
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email**
+
+saurabhkumar4040@gmail.com
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/saurabh-kumar-99009b24a
+
+💻 **GitHub**
+
+https://github.com/krsaurabh007
+
+⭐ Thanks for visiting my profile!

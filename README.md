@@ -64,24 +64,6 @@ Building scalable web applications with modern frontend, backend, and cloud tech
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=krsaurabh007&show_icons=true&theme=github_dark"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krsaurabh007&theme=github-dark"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krsaurabh007&layout=compact&theme=github_dark"/>
-
-</p>
-
----
-
 # 🌱 Currently Learning
 
 - Microservices Architecture

@@ -1,12 +1,8 @@
-<h1 align="center">Hi 👋, I'm Saurabh Kumar</h1>
-
-<h3 align="center">
-Full Stack Developer | React.js • Node.js • TypeScript • PostgreSQL
-</h3>
-
 <p align="center">
-Building scalable web applications with modern frontend, backend, and cloud technologies.
+   <img src="./banner.png" alt="Saurabh Kumar Banner" width="100%">
 </p>
+
+<br>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/saurabh-kumar-99009b24a">

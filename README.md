@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="banner2.png" alt="Saurabh Kumar Banner" width="100%">
+  <img src="banner2.png" alt="Saurabh Kumar banner" width="100%">
 </p>
 
-<br>
+<h1 align="center">Hi, I'm Saurabh Kumar 👋</h1>
+
+<h3 align="center">Full Stack Developer · React, Node.js, PostgreSQL<br/>I build secure SaaS apps and AI-powered features</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saurabh-kumar-99009b24a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="mailto:saurabhkumar4040@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
   <a href="https://www.hackerrank.com/profile/saurabhkumar4040">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
@@ -20,79 +20,60 @@
 
 ---
 
-# 👋 About Me
+## 👨‍💻 About me
 
-I'm a **Full Stack Developer** with **2.8+ years of experience** building scalable web applications using modern JavaScript technologies.
+I'm a Full Stack Developer with **2.7+ years of experience**, currently a Software Developer at **Appsndevices Technologies Pvt. Ltd.** in Bengaluru. I build React and Node.js applications, secure authentication systems and REST APIs, and lately AI features such as LLM tool-calling with MCP and RAG pipelines.
 
-Currently working as a **Software Developer at Appsndevices Technologies Pvt. Ltd.**, where I build production-ready applications, REST APIs, authentication systems, and scalable backend services.
-
-I enjoy solving engineering problems, improving application performance, and designing maintainable backend architectures.
-
-- 💼 Software Developer @ **Appsndevices Technologies Pvt. Ltd.**
+- 💼 Software Developer at Appsndevices Technologies Pvt. Ltd.
 - 📍 Bengaluru, India
-- 🚀 Building scalable SaaS applications
-- ⚡ Interested in Backend Architecture & Performance Optimization
-- 🌱 Currently learning Microservices, Kubernetes, AWS & System Design
+- 🔭 Next up: an AI agent project in Python and FastAPI, using MCP
+- 🌱 Learning: microservices, Kubernetes, AWS, system design and PostgreSQL performance tuning
 
 ---
 
-# 🛠 Tech Stack
+## 🚀 Featured projects
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,ts,js,redux,tailwind,html,css"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis"/>
-</p>
-
-### DevOps & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman"/>
-</p>
+| Project | What it shows | Stack | Links |
+|---|---|---|---|
+| **TenantIQ**<br/>Multi-tenant SaaS | A separate PostgreSQL schema for every organization. JWT sessions in `httpOnly` cookies, Redis refresh-token blacklisting and rate limiting, role-based access (Admin, Manager, Viewer), Kanban board and analytics | React, TypeScript, Node.js, PostgreSQL, Redis, Docker | [Live demo](https://tenantiq-frontend.vercel.app) · [Code](https://github.com/krsaurabh007/TenantIQ) |
+| **RAG From Scratch**<br/>Document Q&A with local LLMs | A RAG pipeline built without LangChain: token-aware chunking, hybrid search (pgvector + full-text, merged with Reciprocal Rank Fusion), document routing and grounded answers | Node.js, React, PostgreSQL + pgvector, Ollama | [Code](https://github.com/krsaurabh007/rag-from-scratch) |
 
 ---
 
-# 🌱 Currently Learning
+## 💼 What I do at work
 
-- AI
-- Microservices Architecture
-- Docker & Containerization
-- Kubernetes
-- AWS
-- PostgreSQL Performance Tuning
-- System Design
+- Build React applications with TanStack React Query, lazy loading, memoization and code splitting for fast data fetching and rendering
+- Manage shared state with Zustand and secure workflows with JWT, refresh tokens and role-based access control
+- Developed an **AI chat panel** that fills in question papers from natural-language input
+- Implemented **LLM tool-calling with MCP**, so the AI queries application data on demand instead of relying on static prompts
 
 ---
 
-# 💡 Engineering Philosophy
+## 🛠 Tech stack
 
-- Clean, readable and maintainable code
-- Performance-first mindset
-- Security by design
-- Build reusable components
-- Keep learning every day
-
-# 📫 Connect With Me
-
-- 📧 **Email:** saurabhkumar4040@gmail.com
-- 💼 **LinkedIn:** https://linkedin.com/in/saurabh-kumar-99009b24a
-- 💻 **GitHub:** https://github.com/krsaurabh007
-- 🧑‍💻 **HackerRank:** https://www.hackerrank.com/profile/saurabhkumar4040
+| | |
+|---|---|
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,ts,js,redux,tailwind,materialui,vite,html,css"/> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express"/> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sequelize"/> |
+| **DevOps and tools** | <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel,supabase,linux,postman"/> |
+| **AI and LLM** | ![RAG](https://img.shields.io/badge/RAG-pipelines-0F766E) ![pgvector](https://img.shields.io/badge/pgvector-4169E1?logo=postgresql&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-local%20LLMs-000000) ![MCP](https://img.shields.io/badge/MCP-tool--calling-6D28D9) |
 
 ---
+
+## 🎯 What I care about
+
+- **Security by design.** In TenantIQ: `httpOnly` refresh-token cookies, Redis token blacklisting and login rate limiting.
+- **Understanding over shortcuts.** I built a full RAG pipeline by hand before reaching for a framework, so I know why each step exists and how it fails.
+- **Clean, maintainable code.** Reusable components, clear boundaries and configuration kept out of code.
+- **Performance.** The right index for each access pattern, and measuring where time actually goes.
+
+---
+
+## 📫 Let's connect
+
+I'm always happy to talk about web engineering, AI features and building software. Reach me on [LinkedIn](https://www.linkedin.com/in/saurabh-kumar-99009b24a) or at **saurabhkumar4040@gmail.com**.
 
 <p align="center">
-⭐ Thanks for visiting my profile!
+  ⭐ Thanks for visiting my profile!
 </p>

@@ -66,6 +66,7 @@ I enjoy solving engineering problems, improving application performance, and des
 
 # 🌱 Currently Learning
 
+- AI
 - Microservices Architecture
 - Docker & Containerization
 - Kubernetes

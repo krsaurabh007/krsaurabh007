@@ -40,12 +40,25 @@ I'm a Full Stack Developer with **2.7+ years of experience**, currently a Softwa
 
 ---
 
-## 💼 What I do at work
+## 💼 What I build
 
-- Build React applications with TanStack React Query, lazy loading, memoization and code splitting for fast data fetching and rendering
-- Manage shared state with Zustand and secure workflows with JWT, refresh tokens and role-based access control
-- Developed an **AI chat panel** that fills in question papers from natural-language input
-- Implemented **LLM tool-calling with MCP**, so the AI queries application data on demand instead of relying on static prompts
+End to end: from the React UI, through the API and database, to containers and deployment.
+
+**Frontend**
+- React and TypeScript apps with TanStack React Query, lazy loading, memoization and code splitting for fast data fetching and rendering
+- Shared state with Zustand (and Redux in earlier work), and responsive UIs with Tailwind CSS and Material-UI
+
+**Backend**
+- Modular REST APIs with Node.js and Express that power frontend workflows and business logic
+- JWT authentication with refresh tokens and role-based access control to protect resources and user sessions
+- Integrations with third-party financial and utility APIs, including webhook callbacks for asynchronous transaction updates
+- PostgreSQL database design, with logic that avoids unnecessary database queries
+- In TenantIQ: Redis-backed token blacklisting and rate limiting, Docker Compose and a GitHub Actions CI/CD pipeline
+
+**AI**
+- An **AI chat panel** that fills in question papers from natural-language input, cutting manual paper-creation time
+- **LLM tool-calling with MCP**, so the AI queries application data on demand instead of relying on static prompts
+- Prompt and context-handling logic that improves tool selection and response relevance
 
 ---
 

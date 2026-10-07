@@ -22,7 +22,7 @@
 
 # 👋 About Me
 
-I'm a **Full Stack Developer** with **2.5+ years of experience** building scalable web applications using modern JavaScript technologies.
+I'm a **Full Stack Developer** with **2.8+ years of experience** building scalable web applications using modern JavaScript technologies.
 
 Currently working as a **Software Developer at Appsndevices Technologies Pvt. Ltd.**, where I build production-ready applications, REST APIs, authentication systems, and scalable backend services.
 

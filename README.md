@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner2.png" alt="Saurabh Kumar banner" width="100%">
-</p>
+
 
 <h1 align="center">Hi, I'm Saurabh Kumar 👋</h1>
 
